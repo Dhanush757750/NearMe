@@ -292,13 +292,12 @@ mart.html
 
 
 ## OUTPUT
-
-![alt text](Dhanush/myapp/static/image.png)
-![alt text](Dhanush/myapp/static/atm.png)
-![alt text](Dhanush/myapp/static/hotel.png)
-![alt text](Dhanush/myapp/static/jewellary.png)
-![alt text](<Dhanush/myapp/static/sweet stall.png>)
-![alt text](Dhanush/myapp/static/mart.png)
+![alt text](<Screenshot 2024-11-26 215535.png>)
+![alt text](<Screenshot 2024-11-26 215550.png>)
+![alt text](<Screenshot 2024-11-26 215614.png>)
+![alt text](<Screenshot 2024-11-26 215604.png>)
+![alt text](<Screenshot 2024-11-26 215630.png>)
+![alt text](<Screenshot 2024-11-26 215650.png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
