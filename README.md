@@ -294,10 +294,9 @@ mart.html
 ## OUTPUT
 ![alt text](<Screenshot 2024-11-26 215535.png>)
 ![alt text](<Screenshot 2024-11-26 215550.png>)
-![alt text](<Screenshot 2024-11-26 215614.png>)
+![alt text](<Screenshot 2024-12-09 102853.png>)
 ![alt text](<Screenshot 2024-11-26 215604.png>)
 ![alt text](<Screenshot 2024-11-26 215630.png>)
 ![alt text](<Screenshot 2024-11-26 215650.png>)
-
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
